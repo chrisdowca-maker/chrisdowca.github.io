@@ -1,3 +1,4 @@
 # chrisdowca.github.io
-Don't do anything I wouldn't do.  Please be responsible. Don't be a jerk.
-Jesus is Lord.
+This is primarily a private page, designed to support a google API using rclone.
+
+You will not be contacted by the creator of this app, and the clientID and secret are for private use only.
